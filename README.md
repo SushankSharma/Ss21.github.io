@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <!-- <img alt="Logo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/logo.ico" width="100" /> -->
+  <img alt="Logo" src="https://github.com/SushankSharma/Ss21.github.io/blob/master/src/images/logo.ico" width="100" />
 </div>
 <h1 style="text-align:center">
   Portfolio Website
@@ -10,7 +10,7 @@
 
 <div style="text-align:center">
 
-  <!-- <img alt="Demo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/demo.png" /> -->
+  <img alt="Demo" src="https://github.com/SushankSharma/Ss21.github.io/blob/master/src/images/demo.png" />
 
 </div>
 
