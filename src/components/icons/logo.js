@@ -15,8 +15,15 @@ const IconLogo = () => (
         />
       </g>
     </g>
-    <text x="18" y="62" fill="currentColor" fontSize="40px" fontFamily="Consolas">
-      SG
+    <text
+      x="50%" // Adjusted x attribute to center-align the text
+      y="62"
+      fill="currentColor"
+      fontSize="40px"
+      fontFamily="Consolas"
+      textAnchor="middle" // Set text anchor to middle for center alignment
+    >
+      Ss
     </text>
   </svg>
 );

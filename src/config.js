@@ -6,13 +6,12 @@ module.exports = {
     'Sushank Sharma, Sushank, Sharma, Ss21, software developer, software engineer, cloud engineer, web developer, bangalore, Embitel Technologies, maniapl university, MAHE, bangalore',
   siteUrl: 'https://Ss21.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
-  googleVerification: '',
+  googleAnalyticsID: 'G-JBNHLZYHH7',
+  googleVerification: 't5AYejyrzomyxjWzJqtOmR9oRafJQ3F4oBnLQLpNweI',
   name: 'Sushank Sharma',
-  location: 'Bangalore, KAR',
+  location: 'Bangalore, Bharat',
   email: 'sushanks07@gmail.com',
   github: 'https://github.com/SushankSharma',
-  twitterHandle: '@IamShikharGupta',
   socialMedia: [
     {
       name: 'GitHub',
@@ -21,7 +20,7 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sushank-sharma-ss21/',
-    }
+    },
   ],
 
   navLinks: [

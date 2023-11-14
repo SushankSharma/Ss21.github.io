@@ -42,6 +42,10 @@ const StyledGrid = styled.div`
     grid-gap: 5px;
     position: relative;
     ${media.desktop`grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));`};
+
+    @media screen and (min-width: 1200px) {
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
   }
 `;
 const StyledProjectInner = styled.div`

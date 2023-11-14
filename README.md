@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img alt="Logo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/logo.ico" width="100" />
+  <!-- <img alt="Logo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/logo.ico" width="100" /> -->
 </div>
 <h1 style="text-align:center">
   Portfolio Website
@@ -8,13 +8,11 @@
   Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
-
 <div style="text-align:center">
 
-  <img alt="Demo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/demo.png" />
+  <!-- <img alt="Demo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/main/src/images/demo.png" /> -->
 
 </div>
-
 
 You can fork this repo. Thanks to [brittanychiang.com](https://brittanychiang.com). Awesome work!
 
@@ -24,7 +22,6 @@ You can fork this repo. Thanks to [brittanychiang.com](https://brittanychiang.co
 
    ```sh
    brew install node
-   
    ```
 
 2. Install the Gatsby CLI and yarn

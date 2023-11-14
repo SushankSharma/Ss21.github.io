@@ -1,15 +1,21 @@
 ---
-date: '2023-05-15'
-title: 'Portfolio Website'
-github: 'https://github.com/Shikhar97/Shikhar97.github.io'
+date: '2023-09-15'
+title: 'portfolio-Ss21'
+github: 'https://github.com/SushankSharma/portfolio-Ss21'
 external: ''
 tech:
   - HTML
   - CSS
   - React.js
   - Javascript
-  - Bootstrap
-showInProjects: false
+  - github-pages
+  - typescript
+  - reactjs
+  - nextjs
+  - sanity-io
+  - tailwind-css
+  - vercel-deployment
+showInProjects: true
 ---
 
-Portfolio Website hosted using GitHub Pages.
+Portfolio Website hosted using Vercel.

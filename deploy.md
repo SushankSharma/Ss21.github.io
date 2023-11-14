@@ -1,21 +1,21 @@
 # Steps to push to deployment
 
-  - git clone
+- git clone
 
-  - cd Shikhar97.github.io
+- cd Ss21.github.io
 
-  - brew install node
+- brew install node
 
-  - npm install -g yarn
+- npm install -g yarn
 
-  - npm install -g gatsby-cli
+- npm install -g gatsby-cli
 
-  - yarn
+- yarn
 
-  - git add .
+- git add .
 
-  - git commit -am "changes"
+- git commit -am "changes"
 
-  - gatsby build
+- gatsby build
 
-  - npm run deploy
+- npm run deploy

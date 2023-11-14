@@ -17,10 +17,17 @@ const IconLoader = () => (
                   L 89, 73
                   L 89, 28 z"
       />
+      <text
+        x="50%" // Adjusted x attribute to center-align the text
+        y="65"
+        fill="currentColor"
+        fontSize="48px"
+        fontFamily="Consolas"
+        textAnchor="middle" // Set text anchor to middle for center alignment
+      >
+        Ss
+      </text>
     </g>
-    <text x="20" y="65" fill="currentColor" fontSize="48px" fontFamily="Consolas">
-      SG
-    </text>
   </svg>
 );
 

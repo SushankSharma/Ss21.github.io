@@ -99,25 +99,26 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-            href="https://github.com/bchiang7/v4"
-            target="_blank"
-            rel="nofollow noopener noreferrer">
+          href="https://github.com/bchiang7/v4"
+          target="_blank"
+          rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br><br></br>
-            Revised by Sushank Sharma
+            Designed &amp; Built by Brittany Chiang<br></br>
+            <br></br>
+            2023 Revised by ©️ Ss21 | All Rights Reserved
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
-              <StyledGitHubInfo>
+            <StyledGitHubInfo>
               <span>
                 <FormattedIcon name="Star" />
                 <span>{githubInfo.stars.toLocaleString()}</span>
               </span>
-                <span>
+              <span>
                 <FormattedIcon name="Fork" />
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
-              </StyledGitHubInfo>
+            </StyledGitHubInfo>
           )}
         </StyledGitHubLink>
       </StyledMetadata>

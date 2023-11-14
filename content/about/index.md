@@ -2,22 +2,18 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Python
-  - C++
-  - Git & Jenkins (CI/CD)
-  - AWS, Azure, OpenStack, Docker & Kubernetes
+  - Java, J2EE
+  - Git (CI/CD)
+  - JavaServer Pages (JSP), JSTL, Servlet-JSP Integration
+  - HTML, CSS, Bootstrap, JavaScript, React.js
   - SQL & NoSQL databases
-  - Kafka & Neo4j
-  - NLP (Natural Language Processing), Computer Vision & Transform Learning
-  - HTML, CSS, Bootstrap, JavaScript, D3.js, React.js
+  - AWS, Azure, OpenStack
 ---
 
-Interestingly, I got introduced to programming in my freshman year at [PES University, Bangalore](https://pes.edu/) where I completed my Bachelors in Computer Science (2015-2019) with a GPA of [3.74](https://drive.google.com/file/d/1YteAN9IXtsFB5cWnINOAb4W5Gg2BA5ep/view?usp=sharing).
+My coding odyssey began in the corridors of academia, sparked during my days at [Manipal Academy of Higher Education](https://manipal.edu/mu.html) where I pursued a Master's in Embedded Systems (2020-2022). Graduating in October 2022 with a GPA of [8.68](https://drive.google.com/file/d/14YozhGjBTYs5P7ult6F1aPqRERS-ZHzj/view?usp=sharing), I delved into the intricacies of cutting-edge technology.
 
-I'm a graduate student pursuing Masters in Computer Science at [Arizona State University](https://www.asu.edu/).
+This educational voyage follows my successful completion of a Bachelor's in Electronics and Communications (2016-2020) from [Visvesvaraya Technological University](https://vtu.ac.in/en/), marking the culmination of my undergraduate journey in October 2020.
 
-I have worked as a Software Engineer at Aruba Networks for 3 years as a full-stack developer.
-
-I have been awarded as Aruba Recognition award multiple times by Aruba.
+I have worked as a Software Engineer Intern at Embitel Technologies (I) Pvt. Ltd., for 15 Months as a Full-Stack Developer.
 
 Here is a list of the technologies that I'm familiar with!
