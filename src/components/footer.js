@@ -104,7 +104,7 @@ const Footer = () => {
             rel="nofollow noopener noreferrer">
           <div>
             Designed &amp; Built by Brittany Chiang<br></br><br></br>
-            Revised by Shikhar Gupta
+            Revised by Sushank Sharma
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

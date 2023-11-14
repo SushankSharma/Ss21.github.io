@@ -1,35 +1,27 @@
 module.exports = {
-  siteTitle: 'Shikhar Gupta | Computer Science Graduate Student | Software Developer | Cloud Engineer | ML Engineer',
+  siteTitle: 'Sushank Sharma | Embedded Systems Post-Graduate Student | Software Developer',
   siteDescription:
-    'Shikhar Gupta is a Computer Science Graduate Student at Arizona State University, who loves learning new things.',
+    'Sushank Sharma is a Embedded Systems Post-Graduate Student at MAHE, Manipal University, Aspiring Coder.',
   siteKeywords:
-    'Shikhar Gupta, Shikhar, Gupta, Shikhar97, software developer, software engineer, cloud engineer, ml engineer, web developer, python developer, ghaziabad, aruba networks, pes university, bangalore',
-  siteUrl: 'https://Shikhar97.github.io/',
+    'Sushank Sharma, Sushank, Sharma, Ss21, software developer, software engineer, cloud engineer, web developer, bangalore, Embitel Technologies, maniapl university, MAHE, bangalore',
+  siteUrl: 'https://Ss21.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'G-JJBG91P2EL',
-  googleVerification: 'q3Nu_ImkB6SquSPqU3x_kZFQOPUTvZNXjdROKCICIJE',
-  name: 'Shikhar Gupta',
-  location: 'Tempe, Arizona',
-  email: 'sgupt330@asu.edu',
-  github: 'https://github.com/Shikhar97',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Sushank Sharma',
+  location: 'Bangalore, KAR',
+  email: 'sushanks07@gmail.com',
+  github: 'https://github.com/SushankSharma',
   twitterHandle: '@IamShikharGupta',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Shikhar97',
+      url: 'https://github.com/SushankSharma',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/shikhar-gupta-430372134/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/shikharguptaaa/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/IamShikharGupta',
-    },
+      url: 'https://www.linkedin.com/in/sushank-sharma-ss21/',
+    }
   ],
 
   navLinks: [
