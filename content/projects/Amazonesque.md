@@ -16,4 +16,4 @@ company: ''
 showInProjects: true
 ---
 
-"Amazon-inspired Online Store App" — Java-based application mirrors Amazon's functionality, allowing users to perform basic (CRUD) operations.
+"Amazon-inspired Online Store App", Java-based application mirrors Amazon's functionality, allowing users to perform basic (CRUD) operations.

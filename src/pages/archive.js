@@ -110,7 +110,7 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archive | Sushank Sharma</title>
-        <link rel="canonical" href="https://Ss21.github.io/archive" />
+        <link rel="canonical" href="https://ss21portfolio.netlify.app/archive/" />
       </Helmet>
 
       <StyledMainContainer>

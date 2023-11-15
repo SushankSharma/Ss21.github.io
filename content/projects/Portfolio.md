@@ -18,4 +18,4 @@ tech:
 showInProjects: true
 ---
 
-Portfolio Website hosted using Vercel.
+Portfolio Website rendered locally using backend Sanity.io.

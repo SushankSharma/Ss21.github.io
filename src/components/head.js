@@ -25,7 +25,7 @@ const Head = ({ metadata }) => (
       {metadata.title}
     </title>
     <link rel="shortcut icon" href={favicon} />
-    <link rel="canonical" href="https://Ss21.github.io" />
+    <link rel="canonical" href="https://ss21portfolio.netlify.app/" />
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JBNHLZYHH7"></script>

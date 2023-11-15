@@ -124,7 +124,7 @@ const PensievePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Pensieve | Sushank Sharma</title>
-        <link rel="canonical" href="https://sushanksharma.github.io/pensieve" />
+        <link rel="canonical" href="https://ss21portfolio.netlify.app/pensieve/" />
       </Helmet>
 
       <StyledMainContainer>

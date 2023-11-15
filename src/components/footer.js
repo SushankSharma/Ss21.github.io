@@ -103,7 +103,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
+            Inspired by Brittany Chiang<br></br>
             <br></br>
             2023 Revised by ©️ Ss21 | All Rights Reserved
           </div>

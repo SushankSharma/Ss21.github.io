@@ -43,7 +43,7 @@ const PostTemplate = ({ data, location }) => {
     <Layout location={location}>
       <Helmet>
         <title>{title} | Sushank Sharma</title>
-        <link rel="canonical" href="https://Ss21.github.io//pensieve" />
+        <link rel="canonical" href="https://ss21portfolio.netlify.app/pensieve/" />
       </Helmet>
 
       <StyledPostContainer>
