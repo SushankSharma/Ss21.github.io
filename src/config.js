@@ -4,7 +4,7 @@ module.exports = {
     'Sushank Sharma is a Embedded Systems Post-Graduate Student at MAHE, Manipal University, Aspiring Coder.',
   siteKeywords:
     'Sushank Sharma, Sushank, Sharma, Ss21, software developer, software engineer, cloud engineer, web developer, bangalore, Embitel Technologies, maniapl university, MAHE, bangalore',
-  siteUrl: 'https://Ss21.github.io/',
+  siteUrl: 'https://sushanksharma.github.io/Ss21.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-JBNHLZYHH7',
   googleVerification: 't5AYejyrzomyxjWzJqtOmR9oRafJQ3F4oBnLQLpNweI',
