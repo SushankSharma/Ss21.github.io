@@ -4,11 +4,11 @@ module.exports = {
     'Sushank Sharma is a Embedded Systems Post-Graduate Student at MAHE, Manipal University, Aspiring Coder.',
   siteKeywords:
     'Sushank Sharma, Sushank, Sharma, Ss21, software developer, software engineer, cloud engineer, web developer, bangalore, Embitel Technologies, maniapl university, MAHE, bangalore',
-  siteUrl: 'https://sushanksharma.github.io/Ss21.github.io/',
+  siteUrl: 'https://ss21portfolio.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-JBNHLZYHH7',
   googleVerification: 't5AYejyrzomyxjWzJqtOmR9oRafJQ3F4oBnLQLpNweI',
-  name: 'Sushank Sharma',
+  name: 'Sushank-Sharma',
   location: 'Bangalore, Bharat',
   email: 'sushanks07@gmail.com',
   github: 'https://github.com/SushankSharma',
