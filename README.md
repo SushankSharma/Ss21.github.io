@@ -5,7 +5,7 @@
   Portfolio Website
 </h1>
 <p style="text-align:center">
-  Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://app.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <div style="text-align:center">
