@@ -107,7 +107,10 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
+          <ResumeLink
+            href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2ed7ab87-9b82-4bf7-bcf5-12206957d4d3"
+            target="_blank"
+            rel="nofollow noopener noreferrer">
             Resume
           </ResumeLink>
         </NavLinks>
