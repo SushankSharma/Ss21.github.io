@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sushank-sharma-ss21/',
+      url: 'https://www.linkedin.com/in/sushanksharma/',
     },
   ],
 
